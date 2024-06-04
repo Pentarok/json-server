@@ -1,5 +1,4 @@
-{
-  "posts": [
+ [
     {
       "id": "1",
       "title": "What is lorem ipsum",
@@ -49,4 +48,4 @@
       "likes": 0
     }
   ]
-}
+
